@@ -1,0 +1,3 @@
+resource:
+  uriDocumentResource : http://hfadlx01.dns21.socgen:8080/ged-dfc-api/fgad/api/clients/synchrone
+  connectionTimeOut: 10000
